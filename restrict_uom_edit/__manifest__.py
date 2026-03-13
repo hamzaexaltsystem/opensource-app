@@ -11,4 +11,6 @@
         'security/account_security.xml',
         # 'views/uom_inherit_form.xml',
     ],
+    'images': ['static/description/banner.gif'],
+
 }
